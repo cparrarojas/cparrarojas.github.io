@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "César Parra Rojas"
-  avatar           : "profile-square.jpg"
+  avatar           : "parra.jpg"
   bio              : "Data scientist & consultant"
   location         : "Barcelona, Spain"
   employer         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=YnR1OOQAAAAJ&hl=en"
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
