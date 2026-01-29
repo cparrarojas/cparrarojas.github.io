@@ -18,8 +18,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "CV"
-    url: /files/CV/CV_CParraRojas.pdf
+  # - title: "CV"
+  #   url: /files/CV/CV_CParraRojas.pdf
 
 #  - title: "Guide"
 #    url: /markdown/
