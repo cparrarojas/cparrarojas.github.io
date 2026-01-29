@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Nothing to see here...
+
 <!---I'm a post-doctoral fellow in the [Systems Medicine of Infectious Diseases](http://systemsmedicine.de/) group at the [Frankfurt Institute for Advanced Studies (FIAS)](https://fias.uni-frankfurt.de/).
 
 At the moment, I'm transitioning from academia to industry, with a particular interest in positions in data science/machine learning. During my postdoc, I graduated from Udacity's Machine Learning Engineer Nanodegree and, since then, I've become a Kaggle competitions master. I'm currently working as a data scientist within the 2019 edition of [Science to Data Science (S2DS)](http://s2ds.org), using CRM data to extract actionable insights in order to increase customer retention and aid business growth.
